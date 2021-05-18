@@ -1,3 +1,9 @@
+# Введение
+
+Доброе время дня, в этом репо показан мой первый проект, построеный на реакте. 
+В данный момент есть баг при отправке формы - можно отправить пустое сообщение.
+Ниже идёт дефолтный текст реакта.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
